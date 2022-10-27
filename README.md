@@ -2,7 +2,7 @@
 
 This Bootstrap Templates repository is used for website templates made with Bootstrap
 
-#Basis website Template List:
+# Basis website Template List:
 
 1. index.html
 2. about.html
